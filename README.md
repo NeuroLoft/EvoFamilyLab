@@ -1,35 +1,35 @@
 ﻿# EvoFamilyLab: Evolution Family Lab
 
-> **Evolution Family Lab. Here, you dont just get married  you evolve.**
+> **Evolution Family Lab. Здесь не просто женятся, здесь эволюционируют.**
 
-Welcome to **EvoFamilyLab** (formerly project "SVOI +"). This is an open ecosystem for choosing partners based on shared values, competencies, and a long-term vision for family creation.
+Добро пожаловать в **EvoFamilyLab** (он же проект Свой +). Это открытая экосистема для выбора партнеров на основе общих ценностей, компетенций и долгосрочного видения создания семьи.
 
-We move beyond consumerist relationships to **conscious evolutionary selection**.
+Мы переходим от потребительских отношений к **осознанной видовой селекции**.
 
-##  Project Structure
+##  Структура Проекта
 
-###  Core Documents
-*   **[White Paper](WhitePaper_SVOI_PLUS.md)**  The technical core. Describes the Competence Exchange mechanics, development levels, and the economy of relationships.
-*   **[Manifesto](Manifesto_SVOI_PLUS.md)**  The ideological core. The philosophy of new ethics and family dynasties planning for 100+ years.
+###  Фундаментальные документы
+*   **[White Paper](WhitePaper_SVOI_PLUS.md)**  Техническое ядро. Описывает механику биржи компетенций, уровни развития и экономику отношений.
+*   **[Манифест](Manifesto_SVOI_PLUS.md)**  Идеологическое ядро. Философия новой этики и планирование семейных династий на 100+ лет.
 
-###  Scientific & Philosophical Base
-Research and articles exploring the connection between consciousness, epigientics, and family building.
+###  Научная и философская база
+Исследования и статьи, исследующие связь между сознанием, эпигенетикой и построением семьи.
 
-*   **[Magic of Consciousness](Магия%20сознания.md)**  How mental state influences reality and future generations.
-*   **[Subconscious: Hidden CEO](Подсознание_Forbes.md)**  Understanding the hidden drivers of our decisions.
-*   **[Consciousness](Сознание.md)**
-*   **Notebooks for deep dive:**
-    *   [Magic of Consciousness (.ipynb)](Магия%20сознания.ipynb)
-    *   [Subconscious (.ipynb)](Подсознание.ipynb)
-    *   [Consciousness 2 (.ipynb)](Сознание2.ipynb)
+*   **[Магия Сознания](Магия%20сознания.md)**  Как ментальное состояние влияет на реальность и будущие поколения.
+*   **[Подсознание: Скрытый CEO](Подсознание_Forbes.md)**  Понимание скрытых драйверов наших решений.
+*   **[Сознание](Сознание.md)**
+*   **Ноутбуки для глубокого погружения:**
+    *   [Магия Сознания (.ipynb)](Магия%20сознания.ipynb)
+    *   [Подсознание (.ipynb)](Подсознание.ipynb)
+    *   [Сознание 2 (.ipynb)](Сознание2.ipynb)
 
 ---
 
-##  Concept
+##  Концепция
 
-**EvoFamilyLab** offers a "Competence Passport" instead of a dating profile. We value:
-1.  **Hard Skills:** Ability to build, grow food, engineer, create.
-2.  **Soft Skills:** Communication, conflict resolution, teamwork.
-3.  **Shared Vision:** Alignment on where and how to live (from Suburbs to Autonomous Estates).
+**EvoFamilyLab** предлагает Паспорт Компетенций вместо обычной анкеты знакомств. Мы ценим:
+1.  **Hard Skills (Твердые навыки):** Умение строить, выращивать еду, проектировать, создавать.
+2.  **Soft Skills (Мягкие навыки):** Коммуникация, решение конфликтов, работа в команде.
+3.  **Shared Vision (Общее видение):** Совпадение во взглядах на то, где и как жить (от пригорода до автономных поместий).
 
-Join us in building not just families, but **Lineages**.
+Присоединяйтесь к нам, чтобы строить не просто семьи, а **Династии**.
